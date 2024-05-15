@@ -1,0 +1,14 @@
+
+#box {
+    height: 200px;
+    width: 120px;
+    background-color: dodgerblue; 
+    color: white;
+    border: 1px solid black;
+}
+.content{
+    height: 50px;
+    width: 100px;
+    background-color: green;
+    color: blue;
+}
