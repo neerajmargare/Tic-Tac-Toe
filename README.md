@@ -1,0 +1,1 @@
+This file include index script and style files
